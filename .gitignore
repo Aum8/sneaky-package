@@ -161,3 +161,6 @@ cython_debug/
 
 # Custom directory
 matplotlib_visual/code_snippets
+
+.md
+.gitignore
